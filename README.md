@@ -1,5 +1,5 @@
 ## PyData Chile
-!(https://github.com/sergiolucero/pydatachile/blob/master/PyDataChileLogo.jpeg)[Logo]
+!(https://raw.githubusercontent.com/sergiolucero/pydatachile/master/PyDataChileLogo.jpeg)[Logo]
 Repositorio para los PPT, Notebooks y código que compartamos en los seminarios de PyData Chile.
 
 ## Seminarios: Meetup + Google Colab
