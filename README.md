@@ -5,7 +5,7 @@ Repositorio para los PPT, Notebooks y código que compartamos en los seminarios 
 ## Seminarios: Meetup + Google Colab
 
 * [PyData0](http://tinyurl.com/PyDataChile0) - Mi ABC de datos: Autos, Bicicletas y Combustibles.
-* [PyData1](http://tinyurl.com/PyDataChile1) - Scraping + Flask.
+* [PyData1](http://tinyurl.com/PyDataChile1) - Scraping + Flask tutorial.
 * [PyData2](http://tinyurl.com/PyDataChile2) - Paralelismo con Dask.
 * [PyData3](http://tinyurl.com/PyDataChile3) - Mi ABC de datos: Autos, Bicicletas y Combustibles.
 
